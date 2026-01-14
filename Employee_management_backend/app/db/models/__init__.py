@@ -1,1 +1,0 @@
-from fastapi_employee_management.db.base import Base
